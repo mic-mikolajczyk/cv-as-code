@@ -84,7 +84,11 @@ As a typical engineer (mechanically trained), I enjoy solving complex problems a
 
 - Web app for `Secret Santa` gift exchange management
 - Machine Learning application in prediction of outcome after osteophytectomy in Forester disease
-    > Award at Global Spine Congress, Los Angeles 2022.
+
+     > Award at Global Spine Congress, Los Angeles 2022.
+
 - Control system of a powered ankle-foot prosthesis
-    > Bachelor thesis and publication
+
+     > Bachelor thesis and publication
+
 - Powered ankle-foot prosthesis: Design, 3D model for manufacturing, and strength calculations
